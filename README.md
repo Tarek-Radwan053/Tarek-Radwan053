@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Tarek-Radwan053/Tarek-Radwan053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Tarek Radwan!
 
-Here are some ideas to get you started:
+I'm an aspiring **Computer Science professional** at the **Université de Montréal**, passionate about software development, web design, and data analysis. I enjoy solving real-world problems and collaborating on innovative projects that make an impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Professional Summary
+- Experienced in **Python**, **Java**, **JavaScript**, **HTML/CSS**, and **C**.
+- Skilled with frameworks and tools like **Pandas**, **Numpy**, **Git**, **Docker**, and **BeautifulSoup**.
+- Strong soft skills: Communication, problem-solving, adaptability, and leadership.
+- Multilingual: Fluent in **Arabic**, **French**, and **English**.<!--
+
+
+
