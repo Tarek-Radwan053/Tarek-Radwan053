@@ -7,7 +7,7 @@ I'm an aspiring **Computer Science professional** at the **Universit√© de Montr√
 - Experienced in **Python**, **Java**, **JavaScript**, **HTML/CSS**, and **C**.
 - Skilled with frameworks and tools like **Pandas**, **Numpy**, **Git**, **Docker**, and **BeautifulSoup**.
 - Strong soft skills: Communication, problem-solving, adaptability, and leadership.
-- Multilingual: Fluent in **Arabic**, **French**, and **English**.<!--
+- Multilingual: Fluent in **Arabic**, **French**, and **English**.
 
 
 
